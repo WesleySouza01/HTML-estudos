@@ -1,0 +1,22 @@
+3 formas de inserção do CSS no HTML:
+
+-CSS inline;
+-CSS interno;
+-CSS externo;
+
+Formas de selecionar um objeto:
+- #ID_DO_ELEMENTO{
+
+}
+
+- .CLASS_DO_ELEMENTO{
+
+}
+
+-ELEMENTO, OUTROELEMENTO{
+
+}
+
+-ELEMENTO OUTROELEMENTO{
+
+}
