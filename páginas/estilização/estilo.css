@@ -13,8 +13,8 @@ body{
 }
 
 .texto {
-    color: red;
-    font-size: 30px;
+    color: rgb(255, 0, 0);
+    font-size: 25px;
     font-weight:normal;
     margin-left: 150px;
     margin-right: 150px;
@@ -33,9 +33,10 @@ img {
 }
 
 .llogin:hover {
-    color:rgb(255, 0, 0);
+    color:rgb(0, 48, 88);
 }
 .pteste {
+    color:rgb(255, 0, 0);
     margin-left: 150px;
     margin-right: 150px;
 }
