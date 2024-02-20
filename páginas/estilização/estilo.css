@@ -9,15 +9,14 @@ body{
     font-size: 50px;
     background-color: rgb(0, 0, 0);
     color:blue;
-    padding-left: 700px;
+    text-align: center;
 }
 
 .texto {
-    color: rgb(255, 0, 0);
+    color: rgb(0, 0, 0);
     font-size: 25px;
     font-weight:normal;
-    margin-left: 150px;
-    margin-right: 150px;
+    font-family: Times New Roman;
 
 }
 
@@ -27,16 +26,14 @@ img {
 
 .llogin{
     font-size: 60px;
-    margin-left: 150px;
-    margin-right: 150px;
 
 }
 
 .llogin:hover {
-    color:rgb(0, 48, 88);
+    color:blue;
 }
+
 .pteste {
-    color:rgb(255, 0, 0);
-    margin-left: 150px;
-    margin-right: 150px;
+    color:rgb(0, 0, 0);
+    
 }
