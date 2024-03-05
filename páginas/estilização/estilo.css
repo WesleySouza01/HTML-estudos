@@ -18,7 +18,7 @@ body{
     font-weight:normal;
     font-family: Times New Roman;
 
-}
+}   
 
 img {
     margin-left: 600px;
@@ -36,4 +36,30 @@ img {
 .pteste {
     color:rgb(0, 0, 0);
     
+}
+
+table{
+    width: 600px;
+    border: 1px solid black;
+}
+
+td{
+    border: 1px solid black;
+}
+
+table thead{
+    background-color: darkgrey;
+}
+
+table tbody{
+    background-color: white;
+}
+
+th, td{
+    padding: 10px;
+    text-align: left;
+}
+
+tbody tr:nth-child(even) {
+    background-color: #DDD;
 }
